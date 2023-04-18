@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "xh-dual-layer-app-engine"
-version = "0.0.1"
+version = "0.0.2"
 description = "A library re-orangize the builtin argparser api to simply bootstrap app with second layer command"
 readme = "README.md"
 requires-python = ">=3.6"
